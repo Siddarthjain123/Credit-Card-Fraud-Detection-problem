@@ -33,7 +33,9 @@ The project pipeline can be briefly summarized in the following steps:
 4. Model building
 
    • Train the model with various algorithm such as Logistic regression, Support Vector machine , Decision Tree,K Nearest Neighbour , Random forest, XGBoost etc.
+   
    • improved performance of models using Ensemble Techniques i.e., AdaBoost, Gradient Boosting and RF
+   
    • Tune the hyperparameters with Grid Search Cross Validation and find the optimal values of the hyperparameters
 
 7. Model evaluation 
