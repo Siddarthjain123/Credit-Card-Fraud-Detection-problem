@@ -1,15 +1,13 @@
 # DATA
 https://www.kaggle.com/datasets/arockiaselciaa/creditcardcsv
-## Inspiration
+## Overview
 
 
 Credit card fraud is any dishonest act and behaviour to obtain information without the proper authorization from the account holder for financial gain. For many banks, retaining high profitable customers is the number one business goal. Banking fraud, however, poses a significant threat to this goal for different banks. In terms of substantial financial losses, trust and credibility, this is a concerning issue to both banks and customers alike.
 
-In the banking industry, credit card fraud detection using machine learning is not just a trend but a necessity for them to put proactive monitoring and fraud prevention mechanisms in place. Machine learning is helping these institutions to reduce time-consuming manual reviews, costly chargebacks and fees, and denials of legitimate transactions.
+This dataset presents transactions that occurred in two days, where we have 492 frauds out o
 
-## Dataset
 
-The dataset is taken from the [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud) and it has a total of 2,84,807 transactions, out of which 492 are fraudulent. Since the dataset is highly imbalanced, so it needs to be handled before model building.
 
 ## Data Dictionary
 
