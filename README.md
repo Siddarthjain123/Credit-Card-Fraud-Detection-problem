@@ -46,4 +46,4 @@ The project pipeline can be briefly summarized in the following steps:
 
    • We also have to find out the good ROC score with high TPR and low FPR in order to get the lower number of misclassifications
   ## Results
-  Obtained highest f1 score of 0.89 and AUC score of 0.91 using random forest with XGBoost technique.
+  Obtained highest f1 score of 0.86 and AUC score of 0.87 using random forest with XGBoost technique.
